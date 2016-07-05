@@ -12,7 +12,11 @@
 >childElementCount属性，返回子元素的个数（不包括文本节点和注释） 
 
 -JavaScript高级程序设计-11.2元素遍历
+<<<<<<< HEAD
 >split()方法，可基于制定分隔符将字符串分割成多个子字符串 
+=======
+>split()方法 
+>>>>>>> origin/master
 
 -JavaScript高级程序设计-5.6.3String类型-6.字符串的模式匹配方法
 >Number()方法，数值转换 
